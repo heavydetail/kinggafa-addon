@@ -30,7 +30,7 @@ var manifest = {
   firefox: {
     "applications": {
       "gecko": {
-        "id": "my-app-id@mozilla.org"
+        "id": "kinggafa-addon@heavy-detail.com"
       }
     }
   }
